@@ -7,3 +7,7 @@ Create a new AWS Identity and Access Management (IAM) user that has full access 
 Upload files to Amazon S3 to host a simple website for the Café & Bakery.
 
 Create a batch file that can be used to update the static website when you change any of the website files locally.
+
+# URL LINK TO WEBSITE
+http://restaurants31.s3-website-us-west-2.amazonaws.com/
+
